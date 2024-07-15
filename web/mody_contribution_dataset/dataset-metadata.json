@@ -1,0 +1,37 @@
+{
+  "id": "mrmody476/warping-results-mody-contribution",
+  "id_no": 4798047,
+  "datasetSlugNullable": "warping-results-mody-contribution",
+  "ownerUserNullable": "mrmody476",
+  "usabilityRatingNullable": 0.125,
+  "titleNullable": "warping-results-mody-contribution",
+  "subtitleNullable": "",
+  "descriptionNullable": "",
+  "datasetId": 4798047,
+  "datasetSlug": "warping-results-mody-contribution",
+  "hasDatasetSlug": true,
+  "ownerUser": "mrmody476",
+  "hasOwnerUser": true,
+  "usabilityRating": 0.125,
+  "hasUsabilityRating": true,
+  "totalViews": 8,
+  "totalVotes": 0,
+  "totalDownloads": 0,
+  "title": "warping-results-mody-contribution",
+  "hasTitle": true,
+  "subtitle": "",
+  "hasSubtitle": true,
+  "description": "",
+  "hasDescription": true,
+  "isPrivate": true,
+  "keywords": [],
+  "licenses": [
+    {
+      "nameNullable": "unknown",
+      "name": "unknown",
+      "hasName": true
+    }
+  ],
+  "collaborators": [],
+  "data": []
+}
